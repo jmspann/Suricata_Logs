@@ -8,12 +8,12 @@ This lab will show how to examine alerts, logs, and rules using Suricata within 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Linux Command-Line</b>
-- <b>Suricata</b>
 
 <h2>Environments Used </h2>
 
 - <b>KALI LINUX</b>
 - <b>Linux Bash Shell</b>
+- <b>Suricata</b>
 
 <h2>Program Walk-Through:</h2>
 
